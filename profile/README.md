@@ -1,6 +1,6 @@
 # ONE BLOCK LTD
 
-![ONE BLOCK Banner](/home/dean/.gemini/antigravity/brain/8c6f8cd8-36b7-4807-92f7-7991da8274f1/one_block_profile_banner_1775523809176.png)
+![ONE BLOCK Banner](https://github.com/One-Block-Org/.github/blob/main/one_block_logo_option_4_abstract_hexagon_block_1775523089579.png)
 
 ## Foundational Engineering. Education Technology. Product Design.
 
