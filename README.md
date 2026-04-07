@@ -1,10 +1,10 @@
-# ONE BLOCK LTD
+# ONE BLOCK
 
 ![ONE BLOCK Banner](https://github.com/One-Block-Org/.github/blob/main/one_block_logo_option_4_abstract_hexagon_block_1775523089579.png)
 
 ## Foundational Engineering. Education Technology. Product Design.
 
-ONE BLOCK LTD is a premier software engineering and product design firm dedicated to building the foundational blocks of the digital era. We specialise in robust systems design, emerging technologies (AI & Blockchain), and high-fidelity digital solutions.
+ONE BLOCK is a premier software engineering and product design firm dedicated to building the foundational blocks of the digital era. We specialise in robust systems design, emerging technologies (AI & Blockchain), and high-fidelity digital solutions.
 
 ### 🧱 Our Core Pillars
 - **Software Engineering**: Robust digital infrastructure and scalable systems integration.
@@ -28,4 +28,4 @@ Our mission is to develop, deploy, and commercialise the digital infrastructure 
 - **Organization**: [github.com/One-Block-Org](https://github.com/One-Block-Org)
 
 ---
-*© 2026 ONE BLOCK LTD. All rights reserved.*
+*© 2026 ONE BLOCK. All rights reserved.*
